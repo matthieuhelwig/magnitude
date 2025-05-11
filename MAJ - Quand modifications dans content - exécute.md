@@ -3,6 +3,8 @@
 
 cd /d "P:\08-SHARE\Magnitude
 
+  npx quartz sync
+
 - Puis
 
      ```bash

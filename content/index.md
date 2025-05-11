@@ -4,10 +4,9 @@ tags:
   - accueil
 ---
 
-# 🚀 Magnitude
+# Magnitude
 
-Bienvenue sur **Magnitude**, la bibliothèque numérique des pionniers.  
-Un espace de partage libre et structuré pour explorer, documenter et outiller les démarches entrepreneuriales et innovantes à impact.
+Bienvenue sur **Magnitude**, ma bibliothèque de ressources pour les pionniers.  Un espace de partage pour explorer, documenter et outiller les démarches entrepreneuriales et innovantes à impact.
 
 ---
 
@@ -15,11 +14,11 @@ Un espace de partage libre et structuré pour explorer, documenter et outiller l
 
 Des ressources sélectionnées et structurées pour :
 
-- 🧭 Explorer les **stratégies entrepreneuriales** innovantes  
-- 🧠 Approfondir les **méthodes d’innovation & R&D**  
-- 🤝 Structurer des **partenariats publics–privés** efficaces  
-- 📚 Documenter les enjeux de **PI, levée de fonds, et scale-up**  
-- 🧰 Tirer parti de l’**automatisation, des outils IA et des frameworks productifs**
+- Explorer les **stratégies entrepreneuriales** innovantes  
+- Approfondir les **méthodes d’innovation & R&D**  
+- Structurer des **partenariats publics–privés** efficaces  
+- Documenter les enjeux de **PI, levée de fonds, et scale-up**  
+- Tirer parti de l’**automatisation, des outils IA et des frameworks productifs**
 
 ---
 
@@ -31,18 +30,6 @@ Des ressources sélectionnées et structurées pour :
 - [[Propriété intellectuelle & valorisation]]
 - [[Stratégie & Design organisationnel]]
 - [[Outils IA & automatisation]]
-
----
-
-## 💡 Pourquoi ce site ?
-
-**Magnitude** est un projet frère de **TerraLabs Partners**, destiné à :
-
-- Centraliser et classer les ressources utiles aux porteurs de projets, chercheurs et innovateurs
-- Outiller les parcours hybrides (chercheur·e, entrepreneur·e, stratège, facilitateur·rice)
-- Créer des ponts entre exploration, stratégie et exécution
-
----
 
 ## 🤝 Collaborer ou contribuer
 
