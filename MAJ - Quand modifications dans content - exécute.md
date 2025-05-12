@@ -1,7 +1,15 @@
 
-   * Quand tu fais des modifications dans `content/`, exécute :
+
+## Quand tu fais des modifications dans `content/`, exécute :
 
 cd /d "P:\08-SHARE\Magnitude
+
+git push origin main 
+
+
+
+---
+
 
   npx quartz sync
 
@@ -9,6 +17,7 @@ cd /d "P:\08-SHARE\Magnitude
 
      ```bash
      npx quartz sync
+ 
      git add .
      git commit -m "Ajout ou modification de notes"
      git push origin main
