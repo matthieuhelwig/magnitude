@@ -7,6 +7,60 @@ cd /d "P:\08-SHARE\Magnitude
 git push origin main 
 
 
+Voici les **instructions claires et complètes** à suivre **à chaque fois que tu modifies des notes dans Obsidian** et que tu veux **les publier sur ton site Quartz ([https://magnitude.pages.dev](https://magnitude.pages.dev))** :
+
+---
+
+## ✅ Étapes pour publier tes notes Obsidian en ligne
+
+1. **Vérifie que tes fichiers modifiés sont bien dans le dossier `content/`** de ton dossier Quartz (`P:\08-SHARE\Magnitude\content`).
+
+2. **Ouvre une fenêtre de terminal (CMD)** et tape :
+
+   ```bash
+   cd /d "P:\08-SHARE\Magnitude"
+   ```
+
+3. **Lance la synchronisation avec Quartz** :
+
+   ```bash
+   npx quartz sync
+   ```
+
+   * Cela va :
+
+     * sauvegarder les fichiers dans Git
+     * compiler les pages dans `public/`
+     * pousser les changements sur GitHub (⚠️ sauf si une erreur survient)
+
+   * Si tu obtiens une erreur liée à `fatal: couldn't find remote ref v4`, **ignore-la** : elle est liée au dépôt original Quartz (inutile ici).
+
+4. **Pousse manuellement les changements sur ton dépôt GitHub** :
+
+   ```bash
+   git add .
+   git commit -m "Mise à jour du contenu"
+   git push origin main
+   ```
+
+   * ⚠️ Tu dois faire cela **chaque fois que tu modifies ou ajoutes des notes**.
+
+5. **Attends que Cloudflare Pages déploie automatiquement**.
+
+   * Tu peux voir le déploiement sur :
+
+     ```
+     https://magnitude.pages.dev
+     ```
+
+---
+
+Souhaites-tu un **fichier Markdown prêt à être sauvegardé dans Obsidian** avec ce guide ?
+
+
+
+
+
 
 ---
 
