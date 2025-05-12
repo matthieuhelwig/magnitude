@@ -66,4 +66,4 @@ Elle offre un socle opérationnel pour **les pionniers en marge des circuits cla
 
 ---
 
-📫 Pour proposer un échange ou une collaboration  : [LinkedIn – Matthieu Helwig](https://www.linkedin.com/in/matthieu-helwig/)  
+📫 Pour proposer un échange ou une collaboration  : [LinkedIn](https://www.linkedin.com/in/matthieu-helwig/)  
