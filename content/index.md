@@ -3,6 +3,7 @@ title: Bienvenue
 tags:
   - accueil
 ---
+
 # Magnitude
 
 *Magnitude* n’est pas une bibliothèque de plus.  
@@ -10,58 +11,65 @@ C’est une **structure vivante de connaissance stratégique**, conçue pour pen
 
 ---
 
-## 🎯 Pourquoi ce projet ?
-
-Parce que la connaissance brute est disponible partout.  
-Parce que l’IA peut t’apporter toutes les réponses… mais pas les bonnes questions.  
-Parce qu’il manque un **fil conducteur** pour ceux qui explorent, bâtissent, innovent.
+> [!quote] Une base n’est utile que si elle permet de penser, relier et agir.  
+> Ce que je construis ici est une interface entre pensée exploratoire, structure stratégique et utilité concrète.
 
 ---
 
-## 🧭 Ce que fait Magnitude
+## Pourquoi ce projet
 
-- Sélectionner le peu qui compte vraiment  
-- Relier idées, outils, projets et acteurs dans une logique cohérente  
-- Transformer le chaos informationnel en architectures de décision  
-- Créer une base claire, réutilisable, modulaire — pour moi, et pour ceux qui construisent autour
-
----
-
-## 🧱 Ce que tu trouveras ici
-
-- **Frameworks stratégiques** — C-K, partenariats, innovation, design écosystémique  
-- **Explorations** — Concepts émergents, hybridations, signaux faibles  
-- **Ressources** — Outils IA, méthodes concrètes, assets prêts à l’emploi  
-- **Graphes de lien** — Pour naviguer autrement dans l’information
+> [!abstract]
+> - La connaissance brute est disponible partout.  
+> - L’IA donne des réponses, rarement les bonnes questions.  
+> - Ce qui manque : **des architectures intelligentes**, filtrantes, modélisantes, activables.
 
 ---
 
-## 🌍 Pour qui ?
+## Ce que fait *Magnitude*
 
-- Ceux qui ne veulent plus accumuler mais **structurer**  
-- Ceux qui ne veulent plus juste réfléchir, mais **agir intelligemment**  
+- **Sélection** : filtrer le peu qui compte vraiment  
+- **Connexion** : relier idées, outils, projets, contextes  
+- **Structuration** : transformer l’information en architecture de décision  
+- **Transmission** : créer une base claire, réutilisable, modulable
+
+---
+
+## Ce que tu trouveras ici
+
+> [!note]
+> - **Frameworks** — pour structurer la pensée et l’action  
+> - **Explorations** — pour creuser, hybrider, élargir  
+> - **Ressources** — pour outiller, accélérer, tester  
+> - **Graphes** — pour naviguer autrement dans le savoir
+
+---
+
+## Pour qui
+
+- Ceux qui veulent **structurer, pas accumuler**  
+- Ceux qui veulent **agir, pas juste réfléchir**  
 - Ceux qui construisent des projets, des systèmes, des liens  
-- Ceux qui savent que **ce n’est pas l’info qui manque, mais la structure**
+- Ceux qui savent que **la forme compte plus que la quantité**
 
 ---
 
-## 🧠 IA ? Oui. Mais…
+## IA ? Oui. Mais…
 
-Oui, j’utilise l’IA. Intensément.  
-Mais *Magnitude* n’est pas généré.  
-C’est **curé, structuré, sélectionné, assumé.**  
-Ce que tu lis ici, c’est le fruit d’un système de pensée qui se renforce au contact du réel.
-
----
-
-## 🚀 Commencer
-
-- 🧰 [[frameworks]]  
-- 🔍 [[explorations]]  
-- 📚 [[ressources]]  
-- 🗺️ [[graph.html]] (visualisation interactive)
+> [!warning] IA ≠ système de pensée  
+> Ce site n’est pas généré. Il est **curé, structuré, assumé**.  
+> Chaque page est une brique dans un tout cohérent — pas un jet de prompts.
 
 ---
 
-📫 *Une remarque ? Une connexion à proposer ? Un échange ?*
-→ [[[Mon Linkedin](https://www.linkedin.com/in/matthieu-helwig/)]]
+## Commencer
+
+- [[frameworks]]  
+- [[explorations]]  
+- [[ressources]]  
+- [[graph.html]] — Carte interactive
+
+---
+
+📫 *Une remarque ? Une ressource à partager ? Un échange stratégique ?*  
+→ Me contacter · [[Mon Linkedin](https://www.linkedin.com/in/matthieu-helwig/)]
+
