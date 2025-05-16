@@ -1,7 +1,6 @@
 ---
-title: Bienvenue
-tags:
-  - accueil
+title: 
+tags: []
 ---
 # Magnitude – Studio des Pionniers  
 > *Un catalyseur pour libérer la créativité et transformer l’incertitude en projets concrets.*
@@ -92,4 +91,4 @@ tags:
 ## ⌲ Contact
 
 **TerraLabs Partners – Explorer. Innover. Transformer.**  
-info@terralabs.partners • [LinkedIn](linkedin.com/company/terralabs-partners](https://linkedin.com/company/terralabs-partners)
+info@terralabs.partners • [LinkedIn](https://linkedin.com/company/terralabs-partners)
