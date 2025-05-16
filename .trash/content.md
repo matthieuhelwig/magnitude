@@ -1,27 +1,26 @@
 
 %% Begin Landmark %%
-- **[[Canevas & Méthodes]]**
+- **Canevas & Méthodes**
 	- [[Design  Thinking]]
 	- [[Méthode C-K]]
 	- [[Modèle fractal]]
 	- [[Roadmap 90j]]
 	- [[Strategy Canvas]]
-- **[[Explorations]]**
+- **Explorations**
 	- [[Hybridation d'idées - Créative Matrix]]
 	- [[Opportunités Deeptech Non Evidentes]]
 	- [[Partenariat augmenté (IA + humain)]]
 	- [[Problèmes à résoudre]]
 	- [[Tensions à explorer]]
 - [[index]]
-- **[[Meta & Navigation]]**
+- **Meta & Navigation**
 	- [[Comment utiliser ce studio]]
 	- [[Glossaire]]
-- **[[Outils & Templates]]**
+- **Outils & Templates**
 	- [[Prompt Agent IA Structurant]]
 	- [[Tableur Prototype Sprint]]
 	- [[Template Diagnostic Flash]]
-- **[[Playbooks créatifs]]**
-- **[[Réseau Braintrust]]**
-- **[[Vues systémiques]]**
+- **Playbooks créatifs**
+- **Réseau Braintrust**
 
 %% End Landmark %%
