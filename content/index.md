@@ -28,12 +28,12 @@ tags:
 
 > [!info] Base modulaire & activable
 >
-> ▪︎ **Canevas & Méthodes** – Design Thinking, C-K, TRIZ, Blue Ocean, Creative Matrix…  
-> ▪︎ **Explorations** – dossiers d’inspiration, tensions marché, opportunités émergentes  
-> ▪︎ **Outils & Templates** – prompt-gallery IA, boards Notion, story maps, pitch canvases  
-> ▪︎ **Vues systémiques** – cartographies d’idées, clusters thématiques, interdisciplinarités
-> ▪︎ **Playbooks créatifs** – Icebreakers, ateliers « Yes And », sessions brainwriting  
-> ▪︎ **Réseau Braintrust** – artistes, designers, ingénieurs, storytellers, investors
+> ▪︎ **[[Canevas & Méthodes]]** – Design Thinking, C-K, TRIZ, Blue Ocean, Creative Matrix…  
+> ▪︎ **[[Explorations]]** – dossiers d’inspiration, tensions marché, opportunités émergentes  
+> ▪︎ **[[Outils & Templates]]** – prompt-gallery IA, boards Notion, story maps, pitch canvases  
+> ▪︎ **[[Vues systémiques]]** – cartographies d’idées, clusters thématiques, interdisciplinarités
+> ▪︎ **[[Playbooks créatifs]]** – Icebreakers, ateliers « Yes And », sessions brainwriting  
+> ▪︎ **[[Réseau Braintrust]]** – artistes, designers, ingénieurs, storytellers, investors
 
 ---
 
@@ -92,4 +92,4 @@ tags:
 ## ⌲ Contact
 
 **TerraLabs Partners – Explorer. Innover. Transformer.**  
-info@terralabs.partners • [linkedin.com/company/terralabs-partners](https://linkedin.com/company/terralabs-partners)
+info@terralabs.partners • [LinkedIn](linkedin.com/company/terralabs-partners](https://linkedin.com/company/terralabs-partners)
