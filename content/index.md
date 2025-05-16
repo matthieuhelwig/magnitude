@@ -8,7 +8,7 @@ tags:
 
 ---
 
-## 🎯 Proposition de valeur
+## ▣ Proposition de valeur
 
 > [!abstract]
 > **Clarifier. Imaginer. Réaliser.**  
@@ -16,28 +16,28 @@ tags:
 
 ---
 
-## 🧭 Notre approche
+## ◧ Notre approche
 
-| Explorer | Structurer | Exécuter |
-|----------|------------|----------|
+| ◩ Explorer | ◪ Structurer | ◨ Exécuter |
+|------------|--------------|------------|
 | Inspiration ciblée, signaux faibles, hybridation d’idées | Cadres d’action sur-mesure, design de concepts, roadmap | Prototypage rapide, partenariats créatifs, pilotage augmenté IA |
 
 ---
 
-## 📚 Ce que contient Magnitude
+## ▤ Ce que contient Magnitude
 
 > [!info] Base modulaire & activable
 >
-> - **Canevas & Méthodes** – Design Thinking, C-K, TRIZ, Blue Ocean, Creative Matrix…  
-> - **Explorations** – dossiers d’inspiration, tensions marché, opportunités émergentes  
-> - **Outils & Templates** – prompt-gallery IA, boards Notion, story maps, pitch canvases  
-> - **Vues systémiques** – cartographies d’idées, clusters thématiques, connexions interdisciplinaires  
-> - **Playbooks créatifs** – Icebreakers, ateliers « Yes And », sessions brainwriting  
-> - **Réseau Braintrust** – artistes, designers, ingénieurs, storytellers, investors
+> ▪︎ **Canevas & Méthodes** – Design Thinking, C-K, TRIZ, Blue Ocean, Creative Matrix…  
+> ▪︎ **Explorations** – dossiers d’inspiration, tensions marché, opportunités émergentes  
+> ▪︎ **Outils & Templates** – prompt-gallery IA, boards Notion, story maps, pitch canvases  
+> ▪︎ **Vues systémiques** – cartographies d’idées, clusters thématiques, connexions interdisciplinaires  
+> ▪︎ **Playbooks créatifs** – Icebreakers, ateliers « Yes And », sessions brainwriting  
+> ▪︎ **Réseau Braintrust** – artistes, designers, ingénieurs, storytellers, investors
 
 ---
 
-## 👤 Pour qui ?
+## ▦ Pour qui ?
 
 > [!checklist]
 > - Entrepreneurs en phase d’idéation ou pivot  
@@ -47,30 +47,30 @@ tags:
 
 ---
 
-## 🚀 Offres clés
+## ▧ Offres clés
 
-| Pack | Objectif | Livrables essentiels |
-|------|----------|----------------------|
-| **Ideation Sprint** | Défricher un terrain, générer 30+ concepts | Carte d’idées priorisées, shortlist TOP3 |
-| **Prototype Playground** | Passer d’un concept à un test utilisateur | Prototype interactif + feedback structuré |
-| **Strategy Canvas** | Positionner et différencier clairement | Canvas visuel + recommandations actions |
-| **PMO augmenté IA** | Garder le flow créatif sous contrôle | Board projet + agent IA Navigator + KPIs |
-| **StoryCraft** | Raconter l’idée pour convaincre | Narratif, pitch deck, one-pager illustré |
+| Pack                  | Objectif                                    | Livrables essentiels                       |
+|-----------------------|---------------------------------------------|--------------------------------------------|
+| **Ideation Sprint**   | Défricher un terrain, générer 30+ concepts  | Carte d’idées priorisées, shortlist TOP3   |
+| **Prototype Playground** | Passer d’un concept à un test utilisateur | Prototype interactif + feedback structuré  |
+| **Strategy Canvas**   | Positionner et différencier clairement      | Canvas visuel + recommandations actions    |
+| **PMO augmenté IA**   | Garder le flow créatif sous contrôle        | Board projet + agent IA Navigator + KPIs   |
+| **StoryCraft**        | Raconter l’idée pour convaincre             | Narratif, pitch deck, one-pager illustré   |
 
 ---
 
-## 🧩 Activation rapide
+## ▩ Activation rapide
 
 > [!tip]
-> 1. **Choisis un canevas** adapté à ton défi créatif.  
-> 2. **Lance un Ideation Sprint** pour faire jaillir les options.  
-> 3. **Prototype rapidement** dans le *Playground*.  
-> 4. **Structure la stratégie** avec le Canvas.  
-> 5. **Pilote** ton avancée via le PMO IA et **raconte** ton projet avec StoryCraft.
+> 1. Choisir un canevas adapté à votre défi créatif  
+> 2. Lancer un *Ideation Sprint* pour ouvrir les options  
+> 3. Prototyper dans le *Playground*  
+> 4. Structurer la stratégie avec le *Strategy Canvas*  
+> 5. Piloter l’avancée via le *PMO IA* et raconter le projet avec *StoryCraft*
 
 ---
 
-## 🔍 Notes phares
+## ⟡ Notes phares
 
 - [[Creative Matrix – Hybridation d’idées]]  
 - [[Story Spine pour pitch impactant]]  
@@ -79,7 +79,7 @@ tags:
 
 ---
 
-## 🤝 Braintrust & peer-learning
+## ⊕ Braintrust & peer-learning
 
 > [!quote]
 > *La créativité se nourrit du partage.*  
@@ -89,7 +89,7 @@ tags:
 
 ---
 
-## 📬 Contact
+## ⌲ Contact
 
 **TerraLabs Partners – Explorer. Innover. Transformer.**  
-info@terralabs.partners • [LinkedIn](linkedin.com/company/terralabs-partners)
+info@terralabs.partners • [linkedin.com/company/terralabs-partners](https://linkedin.com/company/terralabs-partners)
