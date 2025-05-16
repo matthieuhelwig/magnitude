@@ -1,6 +1,6 @@
 ---
-title: 
-tags: []
+title: Bienvenue
+tags:
 ---
 # Magnitude – Studio des Pionniers  
 > *Un catalyseur pour libérer la créativité et transformer l’incertitude en projets concrets.*
