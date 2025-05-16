@@ -4,23 +4,23 @@ tags:
   - accueil
 ---
 
-# Magnitude
+# Nous soutenons les Pionniers
 
-*Magnitude* est une base de ressources conçue pour celles et ceux qui bâtissent dans l’incertain.  
-Entrepreneurs, dirigeants, innovateurs, freelances, chercheurs, profils hybrides :  
-si vous explorez des terrains sans repères, vous êtes au bon endroit.
+Construire une startup est difficile. Vraiment difficile. Il faut une expertise dans le domaine, un talent hors du commun, une bonne exécution, un bon timing et un peu de chance. Il faut aussi une idée géniale, très souvent insaisissable. 
+
+*Magnitude* est une base de ressources conçue pour aider celles et ceux qui bâtissent dans l’incertain.  Entrepreneurs, dirigeants, innovateurs, freelances, chercheurs, profils hybrides :  si vous explorez des terrains sans repères, vous êtes au bon endroit.
 
 ---
 
 ##  Ce que vous trouverez ici
 
-> [!info] Une base structurée, pas une bibliothèque morte
+> [!info] Une base structurée
 > Dans un contexte saturé d’outils, de frameworks et de contenus désincarnés, *Magnitude* vous propose :
 >
 > - Des **cadres d’action concrets** pour avancer plus vite avec méthode  
 > - Des **ressources sélectionnées** testées ou adaptées aux réalités du terrain  
 > - Des **explorations transversales** pour ouvrir de nouveaux champs  
-> - Une **structure modulaire et activable**, pensée pour l’exécution comme pour la réflexion
+> - Une **structure modulaire et activable**, pensée pour l’exécution
 
 ---
 
